@@ -1,0 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+train.csv
+test.csv
+submission_sample.csv
+metadata.csv
+.DS_Store
