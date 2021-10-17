@@ -3,7 +3,7 @@
 <strong>Estime a propensão de aquisição a novos produtos</strong>
 
 <center>
-<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/30103/logos/header.png"/>
+<img src="porto_seguro_header_kaggle.png"/>
 </center>
 
 ## Sobre
@@ -27,9 +27,15 @@ Para ajudar na reprodutibilidade, todos os inputs e outputs foram fixados nas pa
     └── output\ <- Arquivos com previsões geradas pelo modelo 
 ```
 
+<div class="alert alert-info"> 
+<big><strong>💡 Dica <br></strong> </big>
+    
+<div style="color: rgb(0, 0, 0);">Utilize a pasta `code/` como raíz do jupyter notebook para executá-lo com os paths corretos!</div>
+</div>
+
 Na pasta `output\` estarão 3 arquivos: 
 
-  1. Arquivo de submissão com classe 0 ou 1;
+  1. Arquivo com classe 0 ou 1 submetido na plataforma;
   2. Previsão da probabilidade nos dados de teste;
   3. Previsões da probabilidade out-of-fold nos dados de treino.
 
