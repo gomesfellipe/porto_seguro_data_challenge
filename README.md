@@ -3,7 +3,7 @@
 <strong>Estime a propensão de aquisição a novos produtos</strong>
 
 <center>
-![](https://storage.googleapis.com/kaggle-competitions/kaggle/30103/logos/header.png)
+<img src="https://storage.googleapis.com/kaggle-competitions/kaggle/30103/logos/header.png"/>
 </center>
 
 ## Sobre
@@ -43,7 +43,7 @@ Na pasta `output\` estarão 3 arquivos:
 Os prefixos númericos dos notebooks de cada notebook corresponde ao seguinte fluxo: 
 
 <center>
-![](porto_seguro_fluxograma.png)
+<img src="porto_seguro_fluxograma.png"/>
 </center>
 
 </br>
