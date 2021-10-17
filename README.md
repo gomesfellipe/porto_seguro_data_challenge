@@ -21,7 +21,7 @@ Todos os notebooks deste repositório foram desenvolvidos diretamente na platafo
 Para ajudar na reprodutibilidade, todos os inputs e outputs foram fixados nas pastas dos respectivos notebooks com a seguinte organização:
 
 ```
-├── notebook_xpto\
+├── XX_X_notebook_xpto\
     ├── code\   <- Notebook desenvolvido no Kaggle
     ├── input\  <- Todos inputs necessários para rodar o respectivo notebook
     └── output\ <- Arquivos com previsões geradas pelo modelo 
