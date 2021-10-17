@@ -33,6 +33,8 @@ Para ajudar na reprodutibilidade, todos os inputs e outputs foram fixados nas pa
 <div style="color: rgb(0, 0, 0);">Utilize a pasta `code/` como raíz do jupyter notebook para executá-lo com os paths corretos!</div>
 </div>
 
+</br>
+
 Na pasta `output\` estarão 3 arquivos: 
 
   1. Arquivo com classe 0 ou 1 submetido na plataforma;
@@ -42,9 +44,10 @@ Na pasta `output\` estarão 3 arquivos:
 
 <div class="alert alert-warning"> 
 <big><strong>⚠️ Atenção! <br></strong> </big>
-    
 <div style="color: rgb(0, 0, 0);">Todos os notebooks estão com enumerados!</div>
 </div>
+
+</br>
 
 Os prefixos númericos dos notebooks de cada notebook corresponde ao seguinte fluxo: 
 
