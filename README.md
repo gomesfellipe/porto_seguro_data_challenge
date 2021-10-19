@@ -18,13 +18,13 @@ O objetivo final é obter o maior F1 Score possível prevendo o rótulo da targe
 
 Todos os notebooks deste repositório foram desenvolvidos diretamente na plataforma do Kaggle. Os pacotes que não estavam disponíveis nativamente na plataforma foram instalados na primeira celula de cada notebook.
 
-Para ajudar na reprodutibilidade, todos os inputs e outputs foram fixados nas pastas dos respectivos notebooks com a seguinte organização:
+Para ajudar na reprodutibilidade, todos os inputs e outputs foram baixados da plataforma e fixados nas pastas dos respectivos notebooks com a seguinte organização:
 
 ```
-├── XX_X_notebook_xpto\
-    ├── code\   <- Notebook desenvolvido no Kaggle
-    ├── input\  <- Todos inputs necessários para rodar o respectivo notebook
-    └── output\ <- Arquivos com previsões geradas pelo modelo 
+├── 00_0_notebook_xpto\   (Pasta nomeada com id e nome do notebook)
+    ├── code\           <- Notebook desenvolvido no Kaggle
+    ├── input\          <- Todos inputs necessários para rodar o respectivo notebook
+    └── output\         <- Arquivos com previsões geradas pelo modelo 
 ```
 
 <div class="alert alert-info"> 
@@ -49,7 +49,7 @@ Na pasta `output\` estarão 3 arquivos:
 
 </br>
 
-Os prefixos númericos dos notebooks de cada notebook corresponde ao seguinte fluxo: 
+Os prefixos númericos dos notebooks de cada notebook correspondem ao seguinte fluxo: 
 
 <center>
 <img src="porto_seguro_fluxograma.png"/>
